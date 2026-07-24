@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-07-24 05:42">
+  <shop>
+    <name>idcollection</name>
+    <company>idcollection</company>
+    <url>idcollection.ru</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="17042752">Кресла</category>
+    </categories>
+    <offers>
+      <offer id="17472963" available="false" type="vendor.model">
+        <name>Кресло Maddix SL30</name>
+        <url>https://idcollection.ru/winter_sale/?PAGEN_1=4#item_0</url>
+        <price>307655</price>
+        <oldprice>512759</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>17042752</categoryId>
+        <collectionId>col_17472963</collectionId>
+        <picture>https://idcollection.ru/upload/webp/resize_cache/6aa/400_400_1/kreslo_maddix_sl30_foto.webp</picture>
+        <picture>https://idcollection.ru/upload/webp/resize_cache/48f/400_400_1/602b316832f411ef9575000c296a9f04_ff408cc05d8411f0ac5dfc9549ca3af6.webp</picture>
+        <typePrefix>Кресло</typePrefix>
+        <vendor>IDCollection</vendor>
+        <model>Maddix SL30</model>
+        <description>Скидки на товары. Акция на зимнюю коллекцию. Товары со скидкой</description>
+        <sales_notes>Скидки до 50</sales_notes>
+        <custom_label_0>-40</custom_label_0>
+        <custom_label_1>Премиум</custom_label_1>
+        <custom_label_2>Кресла</custom_label_2>
+        <custom_label_3>IDCollection</custom_label_3>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="col_17472963">
+        <url>https://idcollection.ru/winter_sale/?PAGEN_1=4#item_0</url>
+        <name>Кресло Maddix SL30</name>
+        <description>Кресло Maddix SL30. Эксклюзивный дизайн от IDCollection</description>
+        <picture>https://idcollection.ru/upload/webp/resize_cache/6aa/400_400_1/kreslo_maddix_sl30_foto.webp</picture>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>
